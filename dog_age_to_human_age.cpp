@@ -31,12 +31,3 @@ int main()
 		break;
 	}
 }
-
-/*
-	Napisz program, który wczytuje wiek psa (podany w latach) od użytkownika 
-	i przelicza ten wiek na ekwiwalent wieku ludzkiego, przyjmując, że 
-	pierwszy rok życia psa jest równy 15 ludzkim latom, 
-	drugi rok życia to 10 ludzkich lat, 
-	a każdy kolejny rok to 5 ludzkich lat.
-	Program powinien wypisać ekwiwalent wieku ludzkiego dla podanego wieku psa.
-*/
